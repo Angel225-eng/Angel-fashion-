@@ -1,10 +1,109 @@
 {
-    "namePlates": [
-    ],
-    "hats": [
-    ],
-    "visors": [
-    ],
-    "packages": [
-    ]
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "be2d935b6694730153856ecf61ad8a6e",
+				"Address" : "N9qU_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "0597df645f85e6764552204a3b823d3d",
+				"Address" : "dRh_Climb.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "玉",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashion",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "f658529edb4484efc7c08ea8c0edfd3f",
+				"Address" : "qB9OCxvOb_Main.png",
+				"ExIsFront" : False
+			},
+			"Move" : {
+				"Hash" : "f658529edb4484efc7c08ea8c0edfd3f",
+				"Address" : "gBY5jwdc_Move.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d78ccb4a617a03ec9ef45884a8921477",
+				"Address" : "gBY5jwdc_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "d78ccb4a617a03ec9ef45884a8921477",
+				"Address" : "gBY5jwdc_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"ClimbDownFlip" : {
+				"Hash" : "d78ccb4a617a03ec9ef45884a8921477",
+				"Address" : "gBY5jwdc_ClimbDownFlip.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "おさげちゃん",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashion",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		},
+		{
+			"Main" : {
+				"Hash" : "432cb89e8b79f2ddfa02859501ef2e9b",
+				"Address" : "Fjh_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "4f8e169ba92c6fe6a75072e11957ebf1",
+				"Address" : "Fjh_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "4f8e169ba92c6fe6a75072e11957ebf1",
+				"Address" : "Fjh_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : False,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "歩",
+			"Author" : "エンジェル",
+			"Package" : "Angel fashion",
+			"IsUnlockable" : False,
+			"IsLocalizable" : True
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Stamps" : [
+	],
+	"Packages" : [
+		{
+			"Package" : "Angel fashion",
+			"Format" : "Angel fashion",
+			"Priority" : 1,
+			"IsLocalizable" : True
+		}
+	],
+	"IsLocalizable" : True
 }
